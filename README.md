@@ -1,2 +1,2 @@
 # timer4j
-a job scheduling library than can be use in any environment
+a job scheduling library that can be use in any environment
